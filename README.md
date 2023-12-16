@@ -1,6 +1,6 @@
 # Delete-stubborn-file
 
-Overview
+#Overview
 This repository contains a Python script for deleting a specific file from the file system. It's designed to handle file paths on Windows, including those with special characters and extended path prefixes.
 
 Features
